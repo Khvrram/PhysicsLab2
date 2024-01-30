@@ -1,4 +1,6 @@
 # PhysicsLab2
+# Please copy paste this to matlab to use it
+
 clc;
 clear all;
 %Inputs
